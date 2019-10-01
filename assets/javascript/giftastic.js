@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-    var displayedButtons = ["USA", "Gold Fish", "Eiffel Tower","Rome","Tree","Dog","London","Tiger","Lion","Code"];
+    var displayedButtons = ["USA", "Gold Fish","Sting", "Eiffel Tower","Rome","Tree","Dog","London","Tiger","Lion","Code","Green Day","Elephant"];
 
     function displayImg(){
 
