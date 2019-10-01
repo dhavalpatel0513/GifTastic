@@ -1,12 +1,12 @@
 $(document).ready(function(){
 
-    var displayedButtons = ["Harry Potter", "Hermione Granger", "Ron Weasley"];
+    var displayedButtons = ["USA", "Gold Fish", "Eiffel Tower","Rome","Tree","Dog","London","Tiger","Lion","Code"];
 
     function displayImg(){
 
         $("#display-images").empty();
         var input = $(this).attr("data-name");
-        var limit = 10;
+        var limit = 20;
         var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + input + "&limit=" + limit + "&api_key=W17SSNQ4N4dOzn2XhVlFW7nM4vN5gdeF";   
 
         $.ajax({
@@ -44,7 +44,7 @@ $(document).ready(function(){
         for (var i = 0; i < displayedButtons.length; i++){
 
             var newButton = $("<button>") 
-            newButton.attr("class", "btn btn-default");
+            newButton.attr("class", "btn");
             newButton.attr("id", "input")  
             newButton.attr("data-name", displayedButtons[i]); 
             newButton.text(displayedButtons[i]); 
