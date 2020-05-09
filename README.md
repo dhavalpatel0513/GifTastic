@@ -56,4 +56,4 @@ Allows you to search GIPHY for relevant GIFs by clicking on buttons with search 
 
 
 ## Feedback
-<p>Feature requests are always welcome. If you wish to contribute, please send an email with your request to (dhavalpatel0513@gmail.com) for discuss.<a href="https://github.com/dhavalpatel0513/GifTastic/issues/" target="_blank"> or file an issue</a>. </p>
+<p>Feature requests are always welcome. If you wish to contribute, please send an email with your request to (dhavalpatel0513@gmail.com) for discuss. or <a href="https://github.com/dhavalpatel0513/GifTastic/issues/" target="_blank">  file an issue</a>. </p>
