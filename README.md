@@ -42,17 +42,18 @@ Allows you to search GIPHY for relevant GIFs by clicking on buttons with search 
 
 ### Adding your own Search Button
 <ol>
-	<li>In the <b>search box Add your favorite name</li>
+	<li>In thebsearch box Add your favorite name</li>
 	<li>Click on the submit button</li>
-		<info>A button will create with name as a new catagory</info>
-	</li>
+	<li>A button will create with name as a new catagory</li>
 	</li>Click on that button</li>
-	<li>When you click a button,non-animated gif images related to that catagory you chose are retrieved from the GIPHY API and placed in the <b>Gif search results</b> section.</li>
+	<li>When you click a button,non-animated gif images related to that catagory you chose are retrieved from the GIPHY API and placed in the Gif search results section.</li>
 </ol>
 
 ### Playing and pausing gifs
-<p>Click a gif image to play or animate the gif. Click the image again to pause.</p>
+<ol>
+	<li>Click a gif image to play or animate the gif. Click the image again to pause.</li>
+</ol>
 
 
 ## Feedback
-<p><a href="https://github.com/dhavalpatel0513/GifTastic/issues/" target="_blank">file an issue</a>. Feature requests are always welcome. If you wish to contribute, please send an email with your request to (dhavalpatel0513@gmail.com)discuss.</p>
+<p>Feature requests are always welcome. If you wish to contribute, please send an email with your request to (dhavalpatel0513@gmail.com) for discuss.<a href="https://github.com/dhavalpatel0513/GifTastic/issues/" target="_blank"> or file an issue</a>. </p>
