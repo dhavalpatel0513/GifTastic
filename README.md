@@ -10,12 +10,8 @@ Allows you to search GIPHY for relevant GIFs by clicking on buttons with search 
 <p>https://dhavalpatel0513.github.io/GifTastic/</p>
 
 ## Screenshots
-<img src="assets/images/giffinder-header.png" alt="Athlete gif finder site">
-<img src="assets/images/giffinder-athlete-buttons.png" alt="athlete gif buttons">
-<img src="assets/images/giffinder4.png" alt="Athlete gif finder select an athlete section" width="550px" height="320px">
-<img src="assets/images/giffinder3.png" alt="Athlete gif finder user input section" width="550px" height="320px">
-<img src="assets/images/gif-search-results.png" alt="gif search results">
-<img src="assets/images/giffinder2.png" alt="Athlete gif finder search results section" width="400px" height="450px">
+<img src="assets/images/appview.png" alt="View of Application">
+<img src="assets/images/searchresult.png" alt="Search Result">
 
 ## Technologies used to create site
 
